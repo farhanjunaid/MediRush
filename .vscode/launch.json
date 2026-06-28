@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Open MediRush in browser",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}/frontend"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "MediRush: Run & open browser",
+      "preLaunchTask": "MediRush: Run (backend + frontend)",
+      "configurations": ["Open MediRush in browser"]
+    }
+  ]
+}

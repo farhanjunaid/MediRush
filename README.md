@@ -198,14 +198,6 @@ Frontend runs on: `http://localhost:8080`
 
 ---
 
-## 👨‍💻 Author
-
-**Syed Iyanulla**
-- B.E. Information Science & Engineering — GM Institute of Technology (2026)
-- Cloud & Backend Engineering Intern @ Prinston Smart Engineers
-- GitHub: [@syediyanulla](https://github.com/syediyanulla)
-
----
 
 ## 📄 License
 
